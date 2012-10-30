@@ -15,11 +15,11 @@ Cygwin:www.cygwin.com (这个仅在windows下使用，用于模拟linux开发）
 Download
 ========
 
-Download it from https://github.com/hit-moodle/moodle-plagiarism_moss/archives/master
+Download it from https://github.com/jhsrcmh/Anti_plagiarism_moss_java/archives/master
 
 or use git:
 
-`git clone git://github.com/hit-moodle/moodle-plagiarism_moss.git moss`
+`git clone git@github.com:jhsrcmh/Anti_plagiarism_moss_java.git moss`
 
 
 Installation & Upgrading
