@@ -1,7 +1,5 @@
 Anti_plagiarism_moss_java
     by twins  from HIT
-    http://jhsrcmh.github.com
-    mail:jhsrcmh1992@gmail.com
 
 == DESCRIPTION:
      Anti_plagiarism_moss_java 是一个用java语言实现的反抄袭插件，项目源于最近一个代码复查系统的实现。
