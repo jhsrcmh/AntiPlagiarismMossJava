@@ -33,7 +33,8 @@ Follow me~
 
 Usage
 =====
-
+java目录为测试文件的目录，默认为检查java文件爱你，当然你可一修改OS文件夹下面的CMD.java，
+因为moss支持的文件类型范围非常广，你可以根据需要定制。
 
 Links
 =====
